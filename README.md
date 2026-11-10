@@ -12,7 +12,7 @@ I treat the agent as an implementer, not as the author of the plan.
 
 On [kuren-01](https://github.com/Galdenysh/kuren-01) I wrote the operating contract. Agents implemented a small XOR lab inside it: a TypeScript MLP, a React view, and GitHub Pages.
 
-| | |
+| Rule | What it means |
 | --- | --- |
 | **Spec before code** | A slice starts as a proposal, spec, design, and task list. Code starts after I review the plan. |
 | **Rules next to the code** | Root AGENTS.md is an index. Core, UI, and the slice workflow each have their own rules. Cursor rules are only an adapter. |
